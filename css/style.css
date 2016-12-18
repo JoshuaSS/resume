@@ -117,7 +117,19 @@ i {
   margin: 10px 0 15px 0;
 }
 .main-item > dd > p {
+  font-weight: 300;
   margin: 8px auto 8px 33px;
+}
+.main-title-shadow {
+  text-shadow: 0 0 3px #ccc;
+}
+.main-title-ch {
+  font-size: 17px;
+  font-weight: 600!important;
+}
+.main-title-en {
+  font-size: 16px;
+  font-weight: 500!important;
 }
 .main-item > dd > p > a {
   display: inline-block;
